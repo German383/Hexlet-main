@@ -1,8 +1,7 @@
+https://hexlet-ru.notion.site/38fd01d380cb43efa94702b5188cfde4
 # Тестовое задание для верстальщика
 
 При проведении акций или мероприятий на Хекслете применяется тематическое оформление сайта. К первому сентября мы использовали баннер и форму:
-
-https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDnkNJlQlmrMcmWZl9kYVgt%2F1setp-banner%3Fnode-id%3D0%253A1%26t%3DU1zIFaYf1jNzb2RO-1
 
 **Что нужно сделать:**
 
